@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               'Hitarth Anand Rohra',
               style: TextStyle(
                 fontFamily: 'Pacifico',
-                fontSize: 40.0,
+                fontSize: 35.0,
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
               ),
