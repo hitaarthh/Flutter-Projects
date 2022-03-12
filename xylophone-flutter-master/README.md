@@ -1,20 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Xylophone 🎹
 
-## Our Goal
+In this Project I have dived deep into more Dart programming concepts and learning how to use open source Flutter packages and building repeated widgets using dynamic dart functions. This is the first version of my Xylophone APP, created using dart functionality, which reduces the redudancy of code, we can even build this App without using making widget functions(the lengthy way), that will be uploaded after this Project.
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+## What I have Made:
+
+I have made a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. Feel free to download this Project and enjoy this Application on your Android/iOS devices.
+
+<img src="https://user-images.githubusercontent.com/91147942/158009759-c072e684-9a58-4e62-8183-4abdd4c2b216.png" height="700">
 
 
-## What you will create
-
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
-
-## What you will learn
+## Concepts Used
 
 - How to incorporate open source libraries of code into your project using Flutter Packages.
 - How to play sound on both iOS and Android.
@@ -22,6 +17,5 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
