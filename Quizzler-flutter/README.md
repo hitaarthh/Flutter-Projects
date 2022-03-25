@@ -66,5 +66,11 @@ Question('Some cats are actually allergic to humans', true),
 - In simple words abstraction refers to process in which the complex background functions are hidden and user is only provided with the simple tools.For eg, a Car has many complex mechanical systems which are hidden from the user and user is only provided with steering, brakes etc to control the Car. 
 - In our project Abstraction is implented in such a way that all the different functionalities are separated in different classes so that the file ```main.dart``` doesn't look messy, which would eventually help the developer to debug the code.
 
+<div align = "center">
+  <img src="https://1.bp.blogspot.com/-VQeDyV1SUGo/YS7z7EUb19I/AAAAAAAAJDk/6R7hKHUuxoA-9tPuvDYtIinuFRYR0chPwCLcBGAsYHQ/s1280/atm-abstraction-example.png"      height="400">
+</div> 
+<div align = "center">
 
+     Abstraction In Real Life.
+</div>
 
