@@ -7,8 +7,10 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/londonappbrewery/Images/master/quizzler-demo.gif" height="500"> 
  <img src="https://user-images.githubusercontent.com/91147942/160139773-1c313104-d058-4927-8f98-4caa53a14b74.png" height = "500">
- <img src="https://user-images.githubusercontent.com/91147942/160139833-56bb419e-9292-4a05-9c63-0767237dd7df.png" height = "500">    
+ <img src="https://user-images.githubusercontent.com/91147942/160140812-07bd2550-9954-4de7-9456-0b5900bbd89f.png" height = "500">    
 </div>
+
+
 
 ## Concepts Used:
 
