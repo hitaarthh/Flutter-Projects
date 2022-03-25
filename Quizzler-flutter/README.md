@@ -64,13 +64,28 @@ Question('Some cats are actually allergic to humans', true),
 
 ### Abstraction:
 - In simple words abstraction refers to process in which the complex background functions are hidden and user is only provided with the simple tools.For eg, a Car has many complex mechanical systems which are hidden from the user and user is only provided with steering, brakes etc to control the Car. 
-- In our project Abstraction is implented in such a way that all the different functionalities are separated in different classes so that the file ```main.dart``` doesn't look messy, which would eventually help the developer to debug the code.
+- In our Project Abstraction is implented in such a way that all the different functionalities are separated in different classes so that the file ```main.dart``` doesn't look messy, which would eventually help the developer to debug the code.
 
 <div align = "center">
-  <img src="https://1.bp.blogspot.com/-VQeDyV1SUGo/YS7z7EUb19I/AAAAAAAAJDk/6R7hKHUuxoA-9tPuvDYtIinuFRYR0chPwCLcBGAsYHQ/s1280/atm-abstraction-example.png"      height="400">
+<img alt="Abstraction" src="https://user-images.githubusercontent.com/91147942/160164966-f067d04d-647c-4f50-a477-db0a88998704.png">
 </div> 
-<div align = "center">
 
-     Abstraction In Real Life.
+``` Abstraction In Real Life: ``` Above Given Figure depicts the pillars of a restaurant. All of them have their own significance and area of expertise, but if we consider for a whle that only one person is supposed to do all the different jobs, How messy would that make the management of the restraunt!? Now same is with the class and objects, if we create to many methods serving different purposes in a single class, it would eventually lead to a very chaotic code base which would be very difficult to debug and maintain. Having so many arguments in one single code base might override many functions and the code might not perform the expected task. 
+
+### Encapsulation:
+- The term Encapsulation refers to binding data and methods in a single unit called class.
+- Encapsulation may also refer to a mechanism of restricting the direct access to some components of an object, such that users cannot access state values for all of the variables of a particular object. Encapsulation can be used to hide both data members and data functions or methods associated with an instantiated class or object.
+- In our Project encapsulation has been implemented in such a way that the ``` main.dart``` file cannot alter the details  of other classes properties which might result in giving under desired results.
+
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/91147942/160164387-c952acc4-7732-428a-b0fd-10fa52a78acf.jpeg" height="400">
+  
 </div>
 
+### Inheritance: 
+- Inheritance is the procedure in which one class inherits the attributes and methods of another class. 
+
+- The class whose properties and methods are inherited is known as the Parent/Inherited class and the class that inherits the properties from the parent class is the Child/Derived class.
+
+<div align="center"><img height="500" alt="Inherited Class" src="https://user-images.githubusercontent.com/91147942/160167957-c3b9023e-6098-4910-bd1f-c09c2e32a407.png"></div>
